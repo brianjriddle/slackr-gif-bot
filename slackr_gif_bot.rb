@@ -1,5 +1,4 @@
 require 'net/http'
-#require 'net/https'
 require 'sinatra'
 require 'json'
 require "sinatra/reloader" if development?
